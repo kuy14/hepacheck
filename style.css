@@ -1,0 +1,209 @@
+@font-face {
+  font-family: Manjari-Thin;
+  src: url(assets/fonts/Manjari-Thin.ttf);
+}
+@font-face {
+  font-family: Manjari-Regular;
+  src: url(assets/fonts/Manjari-Regular.ttf);
+}
+@font-face {
+  font-family: Manjari-Bold;
+  src: url(assets/fonts/Manjari-Bold.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 0;
+}
+ul {
+}
+.content-card {
+  border-radius: 10px;
+}
+.content-cek {
+  background-color: #7fd3f7;
+}
+.content-cek2 {
+  background-color: #fff;
+  border-radius: 0 10px 10px 0;
+}
+.content-cek3 {
+  background: url(assets/bg-side.png);
+  border-radius: 10px 0 0 10px;
+  padding: 30px 20px 30px 20px;
+}
+.content-cek3 h5 {
+  font-size: 1.2em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.content-cek3 ul{
+	padding: 25px;
+}
+.content-cek3 ul li {
+  padding-bottom: 10px;
+  font-family: "Manjari-Bold", sans-serif;
+  font-size: 0.9em;
+}
+.content-cek3-kanan {
+	height: auto;
+	background-color: #fff;
+	border-radius: 0 10px 10px 0;
+}
+.slider {
+  background: url("assets/background.png");
+  background-repeat: no-repeat;
+}
+.navbar {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  font-size: 0.8em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.konten-kiri {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  margin: 80px 0 80px 240px;
+  padding: 25px;
+}
+.konten-kanan {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  margin-top: 150px;
+  margin-left: 125px;
+  padding: 25px;
+}
+.pembatas {
+  border-color: #00d3ff;
+  border-width: 2px;
+}
+.konten-kiri h1 {
+  font-size: 1.2em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.konten-kiri h6 {
+  font-size: 1em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.konten-kiri p {
+  text-align: justify;
+  font-family: "Manjari-Regular", sans-serif;
+  font-size: 0.9em;
+  margin-bottom: 20px;
+}
+.btn-biru {
+  background-color: #00d3ff;
+  padding: 12px 15px 8px 15px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 0.8em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.konten-kiri2 {
+  background-color: blue;
+}
+.konten-kanan2 {
+  background-color: #7fd3f7;
+}
+.konten-kanan2 h2 {
+  padding-top: 20px;
+  padding-left: 40px;
+  margin-top: 20px;
+  font-family: "Manjari-Bold", sans-serif;
+  font-size: 1.3em;
+}
+.konten-kanan2 p {
+  margin-left: 10px;
+  text-align: justify;
+  font-family: "Manjari-Regular", sans-serif;
+  font-size: 1em;
+  padding: 30px;
+}
+.konten-kanan3 {
+  background-color: blue;
+}
+.konten-kiri3 {
+  background-color: #7fd3f7;
+}
+.konten-kiri3 h2 {
+  padding-top: 20px;
+  padding-left: 40px;
+  margin-top: 10px;
+  font-family: "Manjari-Bold", sans-serif;
+  font-size: 1.3em;
+}
+.konten-kiri3 p {
+  margin-left: 20px;
+  text-align: justify;
+  padding: 25px;
+  font-family: "Manjari-Regular", sans-serif;
+  font-size: 1em;
+}
+.btn-putih {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  color: #000;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.title1 {
+  background-color: #bae1ff;
+  z-index: 999;
+}
+.title1 h3 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.content1 {
+  background-color: #7fd3f7;
+  height: 400px;
+}
+.title2 {
+  background-color: #bae1ff;
+  z-index: 999;
+}
+.title2 h3 {
+  padding: 20px 20px 10px 20px;
+  font-size: 1em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.content2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.category .card h6 {
+  font-size: 0.8em;
+  font-family: "Manjari-Bold", sans-serif;
+}
+.category .card small {
+  font-size: 0.7em;
+  font-family: "Manjari-Regular", sans-serif;
+}
+.category .card p {
+  font-size: 0.8em;
+  font-family: "Manjari-Regular", sans-serif;
+}
+.category .card button {
+  margin: auto;
+  font-size: 0.8em;
+  padding: 10px 10px 5px 10px;
+  font-family: "Manjari-Regular", sans-serif;
+}
+.footer1 .col-6 a {
+  font-size: 2em;
+}
+.footer1 .col-12 {
+  padding: 20px;
+}
+.footer2 .col-12 {
+  padding: 25px;
+}
+.footer2 .col-12 a h6 {
+  padding-top: 25px;
+}
+.footer3 .col-12 {
+  padding: 25px;
+}
