@@ -64,7 +64,7 @@
               </li>
             </ul>
           </div>
-          <div class="col-md-8 content-cek3-kanan"></div>
+          <div class="col-md-8 content-cek3-kanan"><?php include_once('step1.php') ?></div>
         </div>
       </div>
     </div>
