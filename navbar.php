@@ -7,16 +7,16 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active mr-2">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="beranda.php">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item mr-2">
             <a class="nav-link" href="cek-hepatitis.php">Cek hepatitis</a>
           </li>
           <li class="nav-item mr-2">
-            <a class="nav-link" href="#">Info hepatitis<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="info-hepatitis.php">Info hepatitis<span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item mr-2">
-            <a class="nav-link" href="#">Tentang Kami<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="about.php">Tentang Kami<span class="sr-only">(current)</span></a>
           </li>
         </ul>
       </div>

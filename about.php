@@ -11,54 +11,32 @@
 
 </head>
 <body>
-<?php 
-include_once("navbar.php");
-?>
-<div class="container-fluid slider" >
-  <div class="row">
-    <div class="col-md-12">
-      <div class="row ">
-        <div class="col-md-4 konten-kiri">
-          <!-- <h1>CEK KESEHATAN <br>HATI ANDA</h1>
-          <h6 class="mt-4">Dengan langkah-langkah Mudah berikut ini</h6>
-          <hr class="pembatas">
-          <p>1. Imunisasi sejak dini <br>
-             2. Minum air yang banyak <br>
-             3. Makan makanan bergizi <br>
-             4. Hindari alkohol <br>
-             5. Hati-hati dalam mengonsumsi obat <br>
-           </p> -->
-            
-          
-        </div>
-        <div class="col-md-4 konten-kananx"></div>
-        <!-- <div class="col-md-5 konten-kanan">
-          <h1>CEK KESEHATAN <br>HATI ANDA</h1>
-          <h6 class="mt-4">Dengan langkah-langkah Mudah berikut ini</h6>
-          <hr class="pembatas">
-          <p>1. Imunisasi sejak dini <br>
-             2. Minum air yang banyak <br>
-             3. Makan makanan bergizi <br>
-             4. Hindari alkohol <br>
-             5. Hati-hati dalam mengonsumsi obat <br>
-           </p>
-            
-          
-        </div> -->
+ <div class="container-fluid slider">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <?php require_once("navbar.php"); ?>
       </div>
-
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="row ">
+          <div class="col-md-4  konten-kiri">
+            <!-- <h1>JAGA KESEHATAN <br> HATI ANDA </h1>
+            <h6 class="mt-4">Dengan melakukan Kiat-Kiat berikut ini</h6>
+            <hr class="pembatas">
+            <p>1. Imunisasi sejak dini <br>
+              2. Minum air yang banyak <br>
+              3. Makan makanan bergizi <br>
+              4. Hindari alkohol <br>
+              5. Hati-hati dalam mengonsumsi obat
+            </p>
+            <a href="#" class="btn-biru">LEARN MORE</a> -->
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
-
-
-      
-  </div>
-  </div>
-      
     
-  </div>
-</div>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-11 footer offset-1 ">
