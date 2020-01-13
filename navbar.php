@@ -1,6 +1,6 @@
 
     <nav class="navbar navbar-expand-lg navbar-light mt-4">
-      <a class="navbar-brand" href="#"><img src="assets/logo.png" width="180" height="42" alt=""></a>
+      <a class="navbar-brand" href="beranda.php"><img src="assets/logo.png" width="180" height="42" alt=""></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
