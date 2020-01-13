@@ -20,7 +20,19 @@
     <div class="row">
       <div class="col-md-12">
         <div class="row ">
-          <div class="col-md-4  konten-kiri">
+          <div class="col-md-3  konten-kiri">
+            <!-- <h1>JAGA KESEHATAN <br> HATI ANDA </h1>
+            <h6 class="mt-4">Dengan melakukan Kiat-Kiat berikut ini</h6>
+            <hr class="pembatas">
+            <p>1. Imunisasi sejak dini <br>
+              2. Minum air yang banyak <br>
+              3. Makan makanan bergizi <br>
+              4. Hindari alkohol <br>
+              5. Hati-hati dalam mengonsumsi obat
+            </p>
+            <a href="#" class="btn-biru">LEARN MORE</a> -->
+          </div>
+          <div class="col-md-3  konten-kiri">
             <!-- <h1>JAGA KESEHATAN <br> HATI ANDA </h1>
             <h6 class="mt-4">Dengan melakukan Kiat-Kiat berikut ini</h6>
             <hr class="pembatas">

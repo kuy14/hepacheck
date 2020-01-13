@@ -47,7 +47,7 @@
 </div>
 </div>
 
-<div class="container-fluid">
+<div class="container-fluid" style="padding-left:0;">
   <div class="row">
     <div class="col-md-6 konten-kiri2"><img src="assets/hepatitis3.jpg"></div>
     <div class="col-md-6 konten-kanan2">
@@ -55,6 +55,7 @@
       <p>Hepatitis umumnya disebabkan oleh infeksi virus, meskipun juga dapat disebabkan oleh kondisi lain. Beberapa penyebab hepatitis selain infeksi virus adalah kebiasaan minum alkohol, penyakit autoimun, serta zat racun atau obat-obatan tertentu. ... Menetralisir racun yang masuk ke dalam tubuh.</p>
     </div>
   </div>
+</div>
 </div>
 <div class="container-fluid">
   <div class="row">
