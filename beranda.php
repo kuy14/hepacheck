@@ -44,12 +44,8 @@
       <div class="col-md-6 konten-kiri2"><img src="assets/Image-2.png"></div>
       <div class="col-md-6 konten-kanan2">
         <h2>Apa itu HepaCheck</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>Hepacheck adalah Sebuah aplikasi berbasis Website yang bertujuan untuk memeriksa 
+        gejala hepatitis sebelum mendapatkan tindakan lebih lanjut dari dokter ahli. hasil yang dikeluarkan oleh Hepacheck hanya gambaran tentang apa gejala yang anda masukan untuk penanganan langsung harus melanjutkannya ke dokter ahli di kota anda.</p>
       </div>
     </div>
   </div>
